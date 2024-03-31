@@ -11,7 +11,7 @@
 <p align="center">
 <Strong>🧑‍💻introduce🧑‍💻</Strong><br>
 안녕하세요 :)<br>
-신입 웹 풀 스택 개발자 강건입니다.<br>
+웹 풀 스택 개발자 강건입니다.<br>
 <br>
 </p>
 

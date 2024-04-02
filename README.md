@@ -3,9 +3,9 @@
 
 <p align="center">
   <Strong>📧Email📧</Strong><br>
-  rkdrjs71@naver.com<br>
+  rkdrjs71@naver.com<br><br>
     <Strong>⭐️instagram⭐️</Strong><br>
-      @gun.99<br>
+      @Gun.99<br>
 </p>
 
 <br>

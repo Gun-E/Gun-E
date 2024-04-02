@@ -4,6 +4,8 @@
 <p align="center">
   <Strong>📧Email📧</Strong><br>
   rkdrjs71@naver.com<br>
+    <Strong>⭐️instagram⭐️</Strong><br>
+      @gun.99<br>
 </p>
 
 <br>

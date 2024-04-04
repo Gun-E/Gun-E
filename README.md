@@ -5,7 +5,7 @@
   <Strong>📧Email📧</Strong><br>
   rkdrjs71@naver.com<br><br>
     <Strong>⭐️instagram⭐️</Strong><br>
-      @Gun.99<br>
+      @9un.99<br>
 </p>
 
 <br>

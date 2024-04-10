@@ -5,14 +5,13 @@
   <Strong>📧Email📧</Strong><br>
   rkdrjs71@naver.com<br>
     <br>
-    <Strong>⭐️instagram⭐️</Strong><br>
+    <Strong>⭐️Instagram⭐️</Strong><br>
       @9un.99<br>
 </p>
 
 <br>
-
 <p align="center">
-<Strong>🧑‍💻introduce🧑‍💻</Strong><br>
+<Strong>🧑‍💻Introduce🧑‍💻</Strong><br>
 안녕하세요 :)<br>
 웹 풀 스택 개발자 강건 입니다.<br>
 <br>

@@ -3,7 +3,7 @@
 
 <p align="center">
   <Strong>📧Email📧</Strong><br>
-  rkdrjs71@naver.com<br>
+  rkdrjs71@gmail.com<br>
     <br>
     <Strong>⭐️Instagram⭐️</Strong><br>
       @9un.99<br>

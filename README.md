@@ -90,17 +90,6 @@ Planned and implemented an AI conversation service that proposes appliance usage
 - Connected Python/FastAPI AI logic with Java/Spring backend and React UI so user context could affect the next response.
 - Won the top excellence award in the LG Electronics DX School customer experience project.
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gun-E&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=2563EB)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gun-E&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdrjs71)](https://solved.ac/rkdrjs71/)
-
-</div>
-
 ## Education & Certificates
 
 - B.S. in Computer Engineering, Chosun University
